@@ -1,4 +1,4 @@
-package org.launchcode.javawebdevtechjobsauthentication.models.data;
+package org.launchcode.javawebdevtechjobsauthentication.models;
 
 import org.launchcode.javawebdevtechjobsauthentication.models.AbstractEntity;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
